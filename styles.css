@@ -1,0 +1,34 @@
+.header {
+    background-color: #1F2937;
+    display: flex;
+}
+
+.link1{
+    font-family: 'Roboto',sans-serif;
+    font-size: 18px;
+    color: #e5e7eb;
+
+}
+
+
+.logo {
+    font-family: 'Roboto',sans-serif;
+    font-size: 24px;
+    color: #f9faf8;
+
+
+}
+
+.HeroPage{
+    background-color: #1F2937;
+    display: flex;
+}
+
+.heroMainText {
+    font-size: 48px;
+    font-weight: 900px;
+    color: #f9fAf8;
+    font-family: 'Roboto',sans-serif;
+    display: flex;
+
+}
