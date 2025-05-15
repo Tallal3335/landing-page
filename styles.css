@@ -16,9 +16,26 @@
 .Hero{
     background-color: #1f2937;
     display: flex;
+    flex-wrap: wrap;
+    gap:calc(100px);
+    justify-content: center;
+}
+
+.hero-image{
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.hero-main{
+    display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
+    color: #f9faf8;
+    font-family: 'roboto', sans-serif;
+    font-weight: 900px;
 }
+
 
 
 
