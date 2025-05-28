@@ -21,6 +21,12 @@
     justify-content: center;
 }
 
+.element {
+    display: flex;
+    justify-content: space-between;
+
+}
+
 .hero-image{
     justify-content: flex-end;
     align-items: flex-end;
