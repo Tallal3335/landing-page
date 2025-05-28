@@ -17,15 +17,10 @@
     background-color: #1f2937;
     display: flex;
     flex-wrap: wrap;
-    gap:calc(100px);
-    justify-content: center;
-}
-
-.element {
-    display: flex;
+    gap: 100px;
     justify-content: space-between;
-
 }
+
 
 .hero-image{
     justify-content: flex-end;
